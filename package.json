@@ -1,0 +1,16 @@
+{
+  "name": "myserver",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "edu/nodejs/projetos/classesSystem/server.js",
+    "dev": "node --watch edu/nodejs/projetos/classesSystem/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "API simples em Node",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
